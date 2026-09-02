@@ -4,7 +4,7 @@
 
 ### AI Tutor Learning Cycle (ATLC) — Suggested Student Prompt:
 
-```jsx
+```
 
 I just learned [TOPIC] in today’s lecture.
 
@@ -22,7 +22,7 @@ Act as my AI Tutor.
 
 ### AI Tutor Learning Record
 
-```jsx
+```
 Topic: ____________________　　Date: __________
 
 ① Check My Understanding
@@ -70,7 +70,7 @@ One thing I am still unsure about:
 
 AI Tutor Learning Cycle (ATLC) — Suggested Student Prompt:
 
-```jsx
+```
 I have just studied the following lecture code from today’s OCW programming lecture.
 
 [LECTURE CODE]
@@ -111,9 +111,9 @@ Finally, ask me to explain:
 * What idea from the lecture code I transferred to this new problem
 ```
 
-### AI Tutor Learning Record — Coding Challeng
+### AI Tutor Learning Record — Coding Challenge
 
-```jsx
+```
 
 Name: ____________________
 Date: ____________________
